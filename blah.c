@@ -6,4 +6,5 @@ void main()
   printf("sa ri ga ma pa dha ni sa");
   printf("black cat");
   printf ("Life is beautiful");
+  printf("but it sucks");
 }
