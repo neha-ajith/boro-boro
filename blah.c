@@ -8,4 +8,5 @@ void main()
   printf ("Life is beautiful");
   printf("but it sucks");
   printf("meow meow");
+  printf("covid-19");
 }
