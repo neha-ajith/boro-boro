@@ -9,4 +9,5 @@ void main()
   printf("but it sucks");
   printf("meow meow");
   printf("covid-19");
+  printf("2020");
 }
