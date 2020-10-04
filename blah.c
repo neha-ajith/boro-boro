@@ -7,4 +7,5 @@ void main()
   printf("black cat");
   printf ("Life is beautiful");
   printf("but it sucks");
+  printf("meow meow");
 }
